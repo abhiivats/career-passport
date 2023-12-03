@@ -1,0 +1,14 @@
+.frontImage {
+  background-image: url("../../images/frontImage.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 900px;
+  text-align: center;
+}
+
+.content {
+  margin: 0;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  padding-top: 8%;
+}

@@ -1,0 +1,27 @@
+header {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+  margin: auto;
+}
+
+.logo {
+  width: 7%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+#navbar {
+  display: flex;
+  align-items: center;
+}
+
+#navbar a {
+  color: #5fbdff;
+  font-size: 19px;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
